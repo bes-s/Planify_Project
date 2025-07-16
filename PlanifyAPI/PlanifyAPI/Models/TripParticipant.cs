@@ -9,7 +9,7 @@ namespace PlanifyAPI.Models
         public int ParticipantId { get; set; }
 
         public int TripId { get; set; }
-        public int UserId { get; set; }
+        public string UserId { get; set; }
         public bool IsConfirmed { get; set; }
         public DateTime InvitedAt { get; set; }
 

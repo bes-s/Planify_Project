@@ -1,9 +1,10 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 using PlanifyAPI.Models;
 
 namespace PlanifyAPI.Data.Context
 {
-    public class PlanifyDbContext : DbContext
+    public class PlanifyDbContext : IdentityDbContext<User>
     {
         public PlanifyDbContext(DbContextOptions<PlanifyDbContext> options) : base(options) { }
 
