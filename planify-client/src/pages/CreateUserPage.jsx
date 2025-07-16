@@ -16,7 +16,7 @@ function CreateUserPage() {
         firstName,
         lastName,
         email,
-        passwordHash: password,
+        password,
         createdAt: new Date().toISOString()
       });
       navigate('/users');

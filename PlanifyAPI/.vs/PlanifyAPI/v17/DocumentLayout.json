@@ -1,21 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\PlanifyAPI\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\Planify_Project\\PlanifyAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EDA83E9F-8853-4229-8D5E-8DBABF389133}|PlanifyAPI\\PlanifyAPI.csproj|c:\\users\\admin\\source\\repos\\planifyproject\\planifyapi\\planifyapi\\controllers\\usercontrolles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDA83E9F-8853-4229-8D5E-8DBABF389133}|PlanifyAPI\\PlanifyAPI.csproj|c:\\users\\admin\\source\\repos\\planifyproject\\planify_project\\planifyapi\\planifyapi\\controllers\\usercontrolles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDA83E9F-8853-4229-8D5E-8DBABF389133}|PlanifyAPI\\PlanifyAPI.csproj|solutionrelative:planifyapi\\controllers\\usercontrolles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDA83E9F-8853-4229-8D5E-8DBABF389133}|PlanifyAPI\\PlanifyAPI.csproj|c:\\users\\admin\\source\\repos\\planifyproject\\planifyapi\\planifyapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\PlanifyProject\\Planify_Project\\PlanifyAPI\\PlanifyAPI\\Migrations\\20250716090715_Initial_Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PlanifyAPI\\Migrations\\20250716090715_Initial_Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA83E9F-8853-4229-8D5E-8DBABF389133}|PlanifyAPI\\PlanifyAPI.csproj|c:\\users\\admin\\source\\repos\\planifyproject\\planify_project\\planifyapi\\planifyapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EDA83E9F-8853-4229-8D5E-8DBABF389133}|PlanifyAPI\\PlanifyAPI.csproj|solutionrelative:planifyapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA83E9F-8853-4229-8D5E-8DBABF389133}|PlanifyAPI\\PlanifyAPI.csproj|c:\\users\\admin\\source\\repos\\planifyproject\\planify_project\\planifyapi\\planifyapi\\models\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDA83E9F-8853-4229-8D5E-8DBABF389133}|PlanifyAPI\\PlanifyAPI.csproj|solutionrelative:planifyapi\\models\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA83E9F-8853-4229-8D5E-8DBABF389133}|PlanifyAPI\\PlanifyAPI.csproj|c:\\users\\admin\\source\\repos\\planifyproject\\planify_project\\planifyapi\\planifyapi\\models\\tripparticipant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDA83E9F-8853-4229-8D5E-8DBABF389133}|PlanifyAPI\\PlanifyAPI.csproj|solutionrelative:planifyapi\\models\\tripparticipant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA83E9F-8853-4229-8D5E-8DBABF389133}|PlanifyAPI\\PlanifyAPI.csproj|c:\\users\\admin\\source\\repos\\planifyproject\\planify_project\\planifyapi\\planifyapi\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDA83E9F-8853-4229-8D5E-8DBABF389133}|PlanifyAPI\\PlanifyAPI.csproj|solutionrelative:planifyapi\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA83E9F-8853-4229-8D5E-8DBABF389133}|PlanifyAPI\\PlanifyAPI.csproj|c:\\users\\admin\\source\\repos\\planifyproject\\planify_project\\planifyapi\\planifyapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDA83E9F-8853-4229-8D5E-8DBABF389133}|PlanifyAPI\\PlanifyAPI.csproj|solutionrelative:planifyapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDA83E9F-8853-4229-8D5E-8DBABF389133}|PlanifyAPI\\PlanifyAPI.csproj|c:\\users\\admin\\source\\repos\\planifyproject\\planifyapi\\planifyapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\PlanifyProject\\Planify_Project\\PlanifyAPI\\PlanifyAPI\\Migrations\\20250716084135_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PlanifyAPI\\Migrations\\20250716084135_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA83E9F-8853-4229-8D5E-8DBABF389133}|PlanifyAPI\\PlanifyAPI.csproj|c:\\users\\admin\\source\\repos\\planifyproject\\planify_project\\planifyapi\\planifyapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDA83E9F-8853-4229-8D5E-8DBABF389133}|PlanifyAPI\\PlanifyAPI.csproj|solutionrelative:planifyapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDA83E9F-8853-4229-8D5E-8DBABF389133}|PlanifyAPI\\PlanifyAPI.csproj|c:\\users\\admin\\source\\repos\\planifyproject\\planifyapi\\planifyapi\\data\\context\\planifydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDA83E9F-8853-4229-8D5E-8DBABF389133}|PlanifyAPI\\PlanifyAPI.csproj|c:\\users\\admin\\source\\repos\\planifyproject\\planify_project\\planifyapi\\planifyapi\\data\\context\\planifydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDA83E9F-8853-4229-8D5E-8DBABF389133}|PlanifyAPI\\PlanifyAPI.csproj|solutionrelative:planifyapi\\data\\context\\planifydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -25,59 +49,39 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\PlanifyAPI\\PlanifyAPI\\Migrations\\20250603140834_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDA83E9F-8853-4229-8D5E-8DBABF389133}|PlanifyAPI\\PlanifyAPI.csproj|c:\\users\\admin\\source\\repos\\planifyproject\\planifyapi\\planifyapi\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDA83E9F-8853-4229-8D5E-8DBABF389133}|PlanifyAPI\\PlanifyAPI.csproj|solutionrelative:planifyapi\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\PlanifyAPI\\PlanifyAPI\\Migrations\\20250603113226_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDA83E9F-8853-4229-8D5E-8DBABF389133}|PlanifyAPI\\PlanifyAPI.csproj|c:\\users\\admin\\source\\repos\\planifyproject\\planifyapi\\planifyapi\\models\\voteresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDA83E9F-8853-4229-8D5E-8DBABF389133}|PlanifyAPI\\PlanifyAPI.csproj|c:\\users\\admin\\source\\repos\\planifyproject\\planify_project\\planifyapi\\planifyapi\\models\\voteresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDA83E9F-8853-4229-8D5E-8DBABF389133}|PlanifyAPI\\PlanifyAPI.csproj|solutionrelative:planifyapi\\models\\voteresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDA83E9F-8853-4229-8D5E-8DBABF389133}|PlanifyAPI\\PlanifyAPI.csproj|c:\\users\\admin\\source\\repos\\planifyproject\\planifyapi\\planifyapi\\models\\voteoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDA83E9F-8853-4229-8D5E-8DBABF389133}|PlanifyAPI\\PlanifyAPI.csproj|c:\\users\\admin\\source\\repos\\planifyproject\\planify_project\\planifyapi\\planifyapi\\models\\voteoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDA83E9F-8853-4229-8D5E-8DBABF389133}|PlanifyAPI\\PlanifyAPI.csproj|solutionrelative:planifyapi\\models\\voteoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDA83E9F-8853-4229-8D5E-8DBABF389133}|PlanifyAPI\\PlanifyAPI.csproj|c:\\users\\admin\\source\\repos\\planifyproject\\planifyapi\\planifyapi\\models\\tripparticipant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDA83E9F-8853-4229-8D5E-8DBABF389133}|PlanifyAPI\\PlanifyAPI.csproj|solutionrelative:planifyapi\\models\\tripparticipant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDA83E9F-8853-4229-8D5E-8DBABF389133}|PlanifyAPI\\PlanifyAPI.csproj|c:\\users\\admin\\source\\repos\\planifyproject\\planifyapi\\planifyapi\\data\\context\\planifydbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDA83E9F-8853-4229-8D5E-8DBABF389133}|PlanifyAPI\\PlanifyAPI.csproj|c:\\users\\admin\\source\\repos\\planifyproject\\planify_project\\planifyapi\\planifyapi\\data\\context\\planifydbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDA83E9F-8853-4229-8D5E-8DBABF389133}|PlanifyAPI\\PlanifyAPI.csproj|solutionrelative:planifyapi\\data\\context\\planifydbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDA83E9F-8853-4229-8D5E-8DBABF389133}|PlanifyAPI\\PlanifyAPI.csproj|c:\\users\\admin\\source\\repos\\planifyproject\\planifyapi\\planifyapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{EDA83E9F-8853-4229-8D5E-8DBABF389133}|PlanifyAPI\\PlanifyAPI.csproj|solutionrelative:planifyapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDA83E9F-8853-4229-8D5E-8DBABF389133}|PlanifyAPI\\PlanifyAPI.csproj|c:\\users\\admin\\source\\repos\\planifyproject\\planifyapi\\planifyapi\\models\\vote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDA83E9F-8853-4229-8D5E-8DBABF389133}|PlanifyAPI\\PlanifyAPI.csproj|c:\\users\\admin\\source\\repos\\planifyproject\\planify_project\\planifyapi\\planifyapi\\models\\vote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDA83E9F-8853-4229-8D5E-8DBABF389133}|PlanifyAPI\\PlanifyAPI.csproj|solutionrelative:planifyapi\\models\\vote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDA83E9F-8853-4229-8D5E-8DBABF389133}|PlanifyAPI\\PlanifyAPI.csproj|c:\\users\\admin\\source\\repos\\planifyproject\\planifyapi\\planifyapi\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDA83E9F-8853-4229-8D5E-8DBABF389133}|PlanifyAPI\\PlanifyAPI.csproj|c:\\users\\admin\\source\\repos\\planifyproject\\planify_project\\planifyapi\\planifyapi\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDA83E9F-8853-4229-8D5E-8DBABF389133}|PlanifyAPI\\PlanifyAPI.csproj|solutionrelative:planifyapi\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDA83E9F-8853-4229-8D5E-8DBABF389133}|PlanifyAPI\\PlanifyAPI.csproj|c:\\users\\admin\\source\\repos\\planifyproject\\planifyapi\\planifyapi\\models\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDA83E9F-8853-4229-8D5E-8DBABF389133}|PlanifyAPI\\PlanifyAPI.csproj|solutionrelative:planifyapi\\models\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDA83E9F-8853-4229-8D5E-8DBABF389133}|PlanifyAPI\\PlanifyAPI.csproj|c:\\users\\admin\\source\\repos\\planifyproject\\planifyapi\\planifyapi\\models\\itinerary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDA83E9F-8853-4229-8D5E-8DBABF389133}|PlanifyAPI\\PlanifyAPI.csproj|c:\\users\\admin\\source\\repos\\planifyproject\\planify_project\\planifyapi\\planifyapi\\models\\itinerary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDA83E9F-8853-4229-8D5E-8DBABF389133}|PlanifyAPI\\PlanifyAPI.csproj|solutionrelative:planifyapi\\models\\itinerary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDA83E9F-8853-4229-8D5E-8DBABF389133}|PlanifyAPI\\PlanifyAPI.csproj|c:\\users\\admin\\source\\repos\\planifyproject\\planifyapi\\planifyapi\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDA83E9F-8853-4229-8D5E-8DBABF389133}|PlanifyAPI\\PlanifyAPI.csproj|c:\\users\\admin\\source\\repos\\planifyproject\\planify_project\\planifyapi\\planifyapi\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDA83E9F-8853-4229-8D5E-8DBABF389133}|PlanifyAPI\\PlanifyAPI.csproj|solutionrelative:planifyapi\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDA83E9F-8853-4229-8D5E-8DBABF389133}|PlanifyAPI\\PlanifyAPI.csproj|c:\\users\\admin\\source\\repos\\planifyproject\\planifyapi\\planifyapi\\planifyapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{EDA83E9F-8853-4229-8D5E-8DBABF389133}|PlanifyAPI\\PlanifyAPI.csproj|c:\\users\\admin\\source\\repos\\planifyproject\\planify_project\\planifyapi\\planifyapi\\planifyapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{EDA83E9F-8853-4229-8D5E-8DBABF389133}|PlanifyAPI\\PlanifyAPI.csproj|solutionrelative:planifyapi\\planifyapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDA83E9F-8853-4229-8D5E-8DBABF389133}|PlanifyAPI\\PlanifyAPI.csproj|c:\\users\\admin\\source\\repos\\planifyproject\\planifyapi\\planifyapi\\migrations\\20250603141233_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDA83E9F-8853-4229-8D5E-8DBABF389133}|PlanifyAPI\\PlanifyAPI.csproj|solutionrelative:planifyapi\\migrations\\20250603141233_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -87,64 +91,78 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250716090715_Initial_Migration.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\Planify_Project\\PlanifyAPI\\PlanifyAPI\\Migrations\\20250716090715_Initial_Migration.cs",
+              "RelativeDocumentMoniker": "PlanifyAPI\\Migrations\\20250716090715_Initial_Migration.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\Planify_Project\\PlanifyAPI\\PlanifyAPI\\Migrations\\20250716090715_Initial_Migration.cs",
+              "RelativeToolTip": "PlanifyAPI\\Migrations\\20250716090715_Initial_Migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T09:07:15.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250716084135_new.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\Planify_Project\\PlanifyAPI\\PlanifyAPI\\Migrations\\20250716084135_new.cs",
+              "RelativeDocumentMoniker": "PlanifyAPI\\Migrations\\20250716084135_new.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\Planify_Project\\PlanifyAPI\\PlanifyAPI\\Migrations\\20250716084135_new.cs",
+              "RelativeToolTip": "PlanifyAPI\\Migrations\\20250716084135_new.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T08:41:35.755Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "UserControlles.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\PlanifyAPI\\PlanifyAPI\\Controllers\\UserControlles.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\Planify_Project\\PlanifyAPI\\PlanifyAPI\\Controllers\\UserControlles.cs",
               "RelativeDocumentMoniker": "PlanifyAPI\\Controllers\\UserControlles.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\PlanifyAPI\\PlanifyAPI\\Controllers\\UserControlles.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\Planify_Project\\PlanifyAPI\\PlanifyAPI\\Controllers\\UserControlles.cs",
               "RelativeToolTip": "PlanifyAPI\\Controllers\\UserControlles.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAC8AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAhwFwAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-03T14:14:33.553Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20250603141052_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PlanifyAPI\\PlanifyAPI\\Migrations\\20250603141052_InitialCreate.cs",
-              "RelativeDocumentMoniker": "..\\..\\PlanifyAPI\\PlanifyAPI\\Migrations\\20250603141052_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PlanifyAPI\\PlanifyAPI\\Migrations\\20250603141052_InitialCreate.cs",
-              "RelativeToolTip": "..\\..\\PlanifyAPI\\PlanifyAPI\\Migrations\\20250603141052_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T14:10:52.427Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "20250603140834_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PlanifyAPI\\PlanifyAPI\\Migrations\\20250603140834_InitialCreate.cs",
-              "RelativeDocumentMoniker": "..\\..\\PlanifyAPI\\PlanifyAPI\\Migrations\\20250603140834_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\PlanifyAPI\\PlanifyAPI\\Migrations\\20250603140834_InitialCreate.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\PlanifyAPI\\PlanifyAPI\\Migrations\\20250603140834_InitialCreate.cs",
-              "RelativeToolTip": "..\\..\\PlanifyAPI\\PlanifyAPI\\Migrations\\20250603140834_InitialCreate.cs",
+              "RelativeToolTip": "..\\..\\..\\PlanifyAPI\\PlanifyAPI\\Migrations\\20250603140834_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-03T14:08:34.22Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "20250603113226_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PlanifyAPI\\PlanifyAPI\\Migrations\\20250603113226_InitialCreate.cs",
-              "RelativeDocumentMoniker": "..\\..\\PlanifyAPI\\PlanifyAPI\\Migrations\\20250603113226_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\PlanifyAPI\\PlanifyAPI\\Migrations\\20250603113226_InitialCreate.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\PlanifyAPI\\PlanifyAPI\\Migrations\\20250603113226_InitialCreate.cs",
-              "RelativeToolTip": "..\\..\\PlanifyAPI\\PlanifyAPI\\Migrations\\20250603113226_InitialCreate.cs",
+              "RelativeToolTip": "..\\..\\..\\PlanifyAPI\\PlanifyAPI\\Migrations\\20250603113226_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-03T11:32:26.961Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "PlanifyDbContextFactory.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\PlanifyAPI\\PlanifyAPI\\Data\\Context\\PlanifyDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\Planify_Project\\PlanifyAPI\\PlanifyAPI\\Data\\Context\\PlanifyDbContextFactory.cs",
               "RelativeDocumentMoniker": "PlanifyAPI\\Data\\Context\\PlanifyDbContextFactory.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\PlanifyAPI\\PlanifyAPI\\Data\\Context\\PlanifyDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\Planify_Project\\PlanifyAPI\\PlanifyAPI\\Data\\Context\\PlanifyDbContextFactory.cs",
               "RelativeToolTip": "PlanifyAPI\\Data\\Context\\PlanifyDbContextFactory.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -152,35 +170,88 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\PlanifyAPI\\PlanifyAPI\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\Planify_Project\\PlanifyAPI\\PlanifyAPI\\appsettings.json",
               "RelativeDocumentMoniker": "PlanifyAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\PlanifyAPI\\PlanifyAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\Planify_Project\\PlanifyAPI\\PlanifyAPI\\appsettings.json",
               "RelativeToolTip": "PlanifyAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-03T10:45:45.167Z"
+              "WhenOpened": "2025-06-03T10:45:45.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\Planify_Project\\PlanifyAPI\\PlanifyAPI\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "PlanifyAPI\\Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\Planify_Project\\PlanifyAPI\\PlanifyAPI\\Models\\Comment.cs",
+              "RelativeToolTip": "PlanifyAPI\\Models\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T10:56:15.984Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Comment.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\PlanifyAPI\\PlanifyAPI\\Models\\Comment.cs",
-              "RelativeDocumentMoniker": "PlanifyAPI\\Models\\Comment.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\PlanifyAPI\\PlanifyAPI\\Models\\Comment.cs",
-              "RelativeToolTip": "PlanifyAPI\\Models\\Comment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\Planify_Project\\PlanifyAPI\\PlanifyAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "PlanifyAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\Planify_Project\\PlanifyAPI\\PlanifyAPI\\Models\\User.cs",
+              "RelativeToolTip": "PlanifyAPI\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T10:56:15.984Z"
+              "WhenOpened": "2025-06-03T10:53:20.316Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "TripParticipant.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\Planify_Project\\PlanifyAPI\\PlanifyAPI\\Models\\TripParticipant.cs",
+              "RelativeDocumentMoniker": "PlanifyAPI\\Models\\TripParticipant.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\Planify_Project\\PlanifyAPI\\PlanifyAPI\\Models\\TripParticipant.cs",
+              "RelativeToolTip": "PlanifyAPI\\Models\\TripParticipant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T10:54:45.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Trip.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\Planify_Project\\PlanifyAPI\\PlanifyAPI\\Models\\Trip.cs",
+              "RelativeDocumentMoniker": "PlanifyAPI\\Models\\Trip.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\Planify_Project\\PlanifyAPI\\PlanifyAPI\\Models\\Trip.cs",
+              "RelativeToolTip": "PlanifyAPI\\Models\\Trip.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T10:54:02.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250603141052_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PlanifyAPI\\PlanifyAPI\\Migrations\\20250603141052_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\PlanifyAPI\\PlanifyAPI\\Migrations\\20250603141052_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PlanifyAPI\\PlanifyAPI\\Migrations\\20250603141052_InitialCreate.cs",
+              "RelativeToolTip": "..\\..\\..\\PlanifyAPI\\PlanifyAPI\\Migrations\\20250603141052_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T14:10:52.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\PlanifyAPI\\PlanifyAPI\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\Planify_Project\\PlanifyAPI\\PlanifyAPI\\Program.cs",
               "RelativeDocumentMoniker": "PlanifyAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\PlanifyAPI\\PlanifyAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\Planify_Project\\PlanifyAPI\\PlanifyAPI\\Program.cs",
               "RelativeToolTip": "PlanifyAPI\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -188,47 +259,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\PlanifyAPI\\PlanifyAPI\\Models\\User.cs",
-              "RelativeDocumentMoniker": "PlanifyAPI\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\PlanifyAPI\\PlanifyAPI\\Models\\User.cs",
-              "RelativeToolTip": "PlanifyAPI\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T10:53:20.316Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "20250603141233_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\PlanifyAPI\\PlanifyAPI\\Migrations\\20250603141233_InitialCreate.cs",
-              "RelativeDocumentMoniker": "PlanifyAPI\\Migrations\\20250603141233_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\PlanifyAPI\\PlanifyAPI\\Migrations\\20250603141233_InitialCreate.cs",
-              "RelativeToolTip": "PlanifyAPI\\Migrations\\20250603141233_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T14:12:33.904Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "TripParticipant.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\PlanifyAPI\\PlanifyAPI\\Models\\TripParticipant.cs",
-              "RelativeDocumentMoniker": "PlanifyAPI\\Models\\TripParticipant.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\PlanifyAPI\\PlanifyAPI\\Models\\TripParticipant.cs",
-              "RelativeToolTip": "PlanifyAPI\\Models\\TripParticipant.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T10:54:45.319Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "VoteOption.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\PlanifyAPI\\PlanifyAPI\\Models\\VoteOption.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\Planify_Project\\PlanifyAPI\\PlanifyAPI\\Models\\VoteOption.cs",
               "RelativeDocumentMoniker": "PlanifyAPI\\Models\\VoteOption.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\PlanifyAPI\\PlanifyAPI\\Models\\VoteOption.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\Planify_Project\\PlanifyAPI\\PlanifyAPI\\Models\\VoteOption.cs",
               "RelativeToolTip": "PlanifyAPI\\Models\\VoteOption.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -236,11 +271,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "PlanifyDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\PlanifyAPI\\PlanifyAPI\\Data\\Context\\PlanifyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\Planify_Project\\PlanifyAPI\\PlanifyAPI\\Data\\Context\\PlanifyDbContext.cs",
               "RelativeDocumentMoniker": "PlanifyAPI\\Data\\Context\\PlanifyDbContext.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\PlanifyAPI\\PlanifyAPI\\Data\\Context\\PlanifyDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\Planify_Project\\PlanifyAPI\\PlanifyAPI\\Data\\Context\\PlanifyDbContext.cs",
               "RelativeToolTip": "PlanifyAPI\\Data\\Context\\PlanifyDbContext.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAACsAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -248,11 +283,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Vote.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\PlanifyAPI\\PlanifyAPI\\Models\\Vote.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\Planify_Project\\PlanifyAPI\\PlanifyAPI\\Models\\Vote.cs",
               "RelativeDocumentMoniker": "PlanifyAPI\\Models\\Vote.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\PlanifyAPI\\PlanifyAPI\\Models\\Vote.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\Planify_Project\\PlanifyAPI\\PlanifyAPI\\Models\\Vote.cs",
               "RelativeToolTip": "PlanifyAPI\\Models\\Vote.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -260,11 +295,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Notification.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\PlanifyAPI\\PlanifyAPI\\Models\\Notification.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\Planify_Project\\PlanifyAPI\\PlanifyAPI\\Models\\Notification.cs",
               "RelativeDocumentMoniker": "PlanifyAPI\\Models\\Notification.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\PlanifyAPI\\PlanifyAPI\\Models\\Notification.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\Planify_Project\\PlanifyAPI\\PlanifyAPI\\Models\\Notification.cs",
               "RelativeToolTip": "PlanifyAPI\\Models\\Notification.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAiwA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -272,23 +307,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Trip.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\PlanifyAPI\\PlanifyAPI\\Models\\Trip.cs",
-              "RelativeDocumentMoniker": "PlanifyAPI\\Models\\Trip.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\PlanifyAPI\\PlanifyAPI\\Models\\Trip.cs",
-              "RelativeToolTip": "PlanifyAPI\\Models\\Trip.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T10:54:02.908Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "Itinerary.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\PlanifyAPI\\PlanifyAPI\\Models\\Itinerary.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\Planify_Project\\PlanifyAPI\\PlanifyAPI\\Models\\Itinerary.cs",
               "RelativeDocumentMoniker": "PlanifyAPI\\Models\\Itinerary.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\PlanifyAPI\\PlanifyAPI\\Models\\Itinerary.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\Planify_Project\\PlanifyAPI\\PlanifyAPI\\Models\\Itinerary.cs",
               "RelativeToolTip": "PlanifyAPI\\Models\\Itinerary.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -296,11 +319,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "VoteResponse.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\PlanifyAPI\\PlanifyAPI\\Models\\VoteResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\Planify_Project\\PlanifyAPI\\PlanifyAPI\\Models\\VoteResponse.cs",
               "RelativeDocumentMoniker": "PlanifyAPI\\Models\\VoteResponse.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\PlanifyAPI\\PlanifyAPI\\Models\\VoteResponse.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\Planify_Project\\PlanifyAPI\\PlanifyAPI\\Models\\VoteResponse.cs",
               "RelativeToolTip": "PlanifyAPI\\Models\\VoteResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -308,11 +331,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "Booking.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\PlanifyAPI\\PlanifyAPI\\Models\\Booking.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\Planify_Project\\PlanifyAPI\\PlanifyAPI\\Models\\Booking.cs",
               "RelativeDocumentMoniker": "PlanifyAPI\\Models\\Booking.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\PlanifyAPI\\PlanifyAPI\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\Planify_Project\\PlanifyAPI\\PlanifyAPI\\Models\\Booking.cs",
               "RelativeToolTip": "PlanifyAPI\\Models\\Booking.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -320,11 +343,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "PlanifyAPI.csproj",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\PlanifyAPI\\PlanifyAPI\\PlanifyAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\Planify_Project\\PlanifyAPI\\PlanifyAPI\\PlanifyAPI.csproj",
               "RelativeDocumentMoniker": "PlanifyAPI\\PlanifyAPI.csproj",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\PlanifyAPI\\PlanifyAPI\\PlanifyAPI.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\Planify_Project\\PlanifyAPI\\PlanifyAPI\\PlanifyAPI.csproj",
               "RelativeToolTip": "PlanifyAPI\\PlanifyAPI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",

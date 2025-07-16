@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\PlanifyAPI\\PlanifyAPI\\PlanifyAPI.csproj": {}
+    "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\Planify_Project\\PlanifyAPI\\PlanifyAPI\\PlanifyAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\PlanifyAPI\\PlanifyAPI\\PlanifyAPI.csproj": {
+    "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\Planify_Project\\PlanifyAPI\\PlanifyAPI\\PlanifyAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\PlanifyAPI\\PlanifyAPI\\PlanifyAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\Planify_Project\\PlanifyAPI\\PlanifyAPI\\PlanifyAPI.csproj",
         "projectName": "PlanifyAPI",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\PlanifyAPI\\PlanifyAPI\\PlanifyAPI.csproj",
+        "projectPath": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\Planify_Project\\PlanifyAPI\\PlanifyAPI\\PlanifyAPI.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\PlanifyAPI\\PlanifyAPI\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\source\\repos\\PlanifyProject\\Planify_Project\\PlanifyAPI\\PlanifyAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -49,6 +49,10 @@
             "Microsoft.AspNetCore.Cors": {
               "target": "Package",
               "version": "[2.3.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.2, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",

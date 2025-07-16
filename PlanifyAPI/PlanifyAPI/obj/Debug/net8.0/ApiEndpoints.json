@@ -385,29 +385,19 @@
   },
   {
     "ContainingType": "PlanifyAPI.Controllers.UsersController",
-    "Method": "CreateUser",
+    "Method": "RegisterUser",
     "RelativePath": "api/Users",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "user",
-        "Type": "PlanifyAPI.Models.User",
+        "Name": "registerVM",
+        "Type": "PlanifyAPI.Models.Commands.Users.CreateUserCommand",
         "IsRequired": true
       }
     ],
-    "ReturnTypes": [
-      {
-        "Type": "PlanifyAPI.Models.User",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
+    "ReturnTypes": []
   },
   {
     "ContainingType": "PlanifyAPI.Controllers.UsersController",
